@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react.js, pandas, pytorch**
+- 🌱 I’m currently learning **Machine Learning, Computer Vision, pytorch**
 
-- 💬 Ask me about **react, django, python**
+- 💬 Ask me about **Machinelearning,DeepLearning,Computer Vision, django, python**
 
 - 📫 How to reach me **anuj.krishna.phuyal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anuj___krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj___krishna" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/anuj-krishna-phuyal-0a3487251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Anuj Krishna phuyal
-" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/anuj-krishna-phuyal-0a3487251/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
