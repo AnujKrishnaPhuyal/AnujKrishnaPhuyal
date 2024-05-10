@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision, pytorch**
 
-- 💬 Ask me about **Machinelearning,DeepLearning,Computer Vision, django, python**
+- 💬 Ask me about **Machinelearning,DeepLearning,Computer Vision, django,REACT python**
 
 - 📫 How to reach me **anuj.krishna.phuyal@gmail.com**
 
