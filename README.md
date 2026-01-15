@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujKrishnaPhuyal&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anujkrishnaphuyal" height="150" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujkrishnaphuyal&show_icons=true&locale=en&layout=compact" alt="anujkrishnaphuyal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkrishnaphuyal&" alt="anujkrishnaphuyal" /></p>
+
