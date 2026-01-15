@@ -2,7 +2,6 @@
 <h3 align="center">An enthusiastic learner in the field of tech</h3>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=anujkrishnaphuyal&theme=radical](https://avatars.githubusercontent.com/u/123579504?v=4&size=64)" alt="anujkrishnaphuyal" />
 </p>
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision, and PyTorch**
