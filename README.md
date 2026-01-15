@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/anuj-krishna-phuyal-0a3487251/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/anuj___krishna" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +29,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anujkrishnaphuyal&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anujkrishnaphuyal" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkrishnaphuyal&theme=vision-friendly-dark" alt="anujkrishnaphuyal" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujKrishnaPhuyal&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anujkrishnaphuyal" height="150" />
 </p>
